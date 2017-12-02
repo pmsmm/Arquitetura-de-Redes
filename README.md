@@ -3,8 +3,8 @@ Projeto de Aquitetura de Redes 2017/2018
 Este projeto foi realizado no âmbito da cadeira de Arquitetura de Redes no Instituto Superior Técnico, tem como objetivo a montagem de uma rede de acordo com o enunciado que se encontra neste repositório e sua respetiva configuração e otimização.
 
 Projeto Realizado Por:
-  -Pedro Maria;
-  -Margarida Simões;
+  -Pedro Maria;/n
+  -Margarida Simões;/n
   -Miguel Gonçalves;
   
 #############################################################################################
