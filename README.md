@@ -7,7 +7,7 @@ Projeto Realizado Por:
   -Margarida Simões;
   -Miguel Gonçalves;
   
-####################################################################################################
+##############################################################################################
 
 This project was made for the class of Network Architecture in Instituto Superior Técnico and it's purpose is to assemble and configure a network acording to some rules given by the professors (which can be found in a PDF document in this repository with the name "Enunciado") and after that the group had to proceed to optimize the network in order to make it run better.
 
